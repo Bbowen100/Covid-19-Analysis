@@ -7,4 +7,7 @@ https://www.medrxiv.org/content/10.1101/2020.03.21.20040667v1
 
 ![GitHub Logo](/media/corona_approx_curve.png)
 
+Dataset taken from the Covid-19 Kaggle Repository
+specifically: johns-hopkins-covid-19-daily-dashboard-cases-over-time.csv
+
 
